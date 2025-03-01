@@ -8,7 +8,7 @@ Algunos ejemplos de acciones que podremos hacer son:
 
 ¡No dudes en probar este código e implementarlo en tu tienda para tenerlo todo bajo control!
 
-Anotaciones para Almu:
+ * NOTA IMPORTANTE:
 Como te he comentado en la sala, al estar trabajando desde un disco duro externo, cada documento que creo en una carpeta se duplica y se nombra con "._nombredelarchivo".
 Por tanto, te pido que, cuando vayas a abrir el documento para la evaluación, abras solo el que se llama "Evaluación_MartaMeca.ipynb"
 
