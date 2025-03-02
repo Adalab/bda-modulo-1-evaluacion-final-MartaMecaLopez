@@ -10,6 +10,6 @@ Algunos ejemplos de acciones que podremos hacer son:
 
  * NOTA IMPORTANTE:
 Como te he comentado en la sala, al estar trabajando desde un disco duro externo, cada documento que creo en una carpeta se duplica y se nombra con "._nombredelarchivo".
-Por tanto, te pido que, cuando vayas a abrir el documento para la evaluación, abras solo el que se llama "Evaluación_MartaMeca.ipynb"
+Por tanto, te he enviado el archivo final por slack. Ten ese en cuenta en lugar del de github, por favor.
 
 Gracias!
